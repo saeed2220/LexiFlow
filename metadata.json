@@ -1,0 +1,6 @@
+{
+  "name": "LexiFlow",
+  "description": "AI-powered English vocabulary acquisition and spaced repetition learning platform with Persian translation support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
